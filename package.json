@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://google.com"
+    "url": "https://github.com/guluarte/lib-wav-audio-recorder"
   },
   "keywords": [
     "audio",

@@ -1,8 +1,7 @@
 /* eslint-disable */
 import WavEncoder from "lib-wav-encoder"
-import convertTimeMMSS from 'convert-time-to-mmss'
+import convertTimeMMSS from "convert-time-to-mmss"
 
-import WavEncoder from "./WavEncoder";
 
 export default class Recorder {
     constructor(options = {}) {
