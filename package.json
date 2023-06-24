@@ -1,0 +1,21 @@
+{
+  "name": "lib-wav-audio-recorder",
+  "version": "1.0.0",
+  "description": "record wav audio from the brwoser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://google.com"
+  },
+  "keywords": [
+    "audio",
+    "wav",
+    "recorder"
+  ],
+  "author": "guluarte",
+  "license": "ISC",
+  "dependencies": {
+    "convert-time-to-mmss": "^1.0.1",
+    "lib-wav-encoder": "^1.0.0"
+  }
+}
