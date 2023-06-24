@@ -1,6 +1,6 @@
 {
   "name": "lib-wav-audio-recorder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "record wav audio from the brwoser",
   "main": "index.js",
   "repository": {
